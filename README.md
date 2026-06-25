@@ -79,7 +79,7 @@ Closes the application.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/file-management-app.git
+git clone https://github.com/tayyab-ali2/File-management-app.git
 ```
 
 ### Move into Project Directory
